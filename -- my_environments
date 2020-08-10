@@ -1,0 +1,12 @@
+pip install Django==1.11.9
+pip list
+pip3 list
+source myEnvironments/py3Env/bin/activate
+pip install Django==1.11.9
+pip freeze
+cd ~/Desktop
+pip freeze > requirements.txt
+ls
+pip uninstall Django
+pip show Django
+pip search Flask
